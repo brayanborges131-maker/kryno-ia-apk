@@ -1,15 +1,15 @@
 {
   "name": "Kryno IA",
   "short_name": "KrynoIA",
-  "description": "A tua inteligência artificial pessoal",
+  "description": "Sua inteligência artificial integrada para produtividade e automação inteligente.",
   "theme_color": "#1d4ed8",
   "background_color": "#1e1b29",
   "display": "standalone",
   "orientation": "portrait",
-  "start_url": "/",
+  "start_url": "/kryno-ia-apk/",
   "icons": [
     {
-      "src": "/favicon.ico",
+      "src": "/kryno-ia-apk/favicon.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     }
