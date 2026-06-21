@@ -1,0 +1,17 @@
+{
+  "name": "Kryno IA",
+  "short_name": "KrynoIA",
+  "description": "A tua inteligência artificial pessoal",
+  "theme_color": "#1d4ed8",
+  "background_color": "#1e1b29",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ]
+}
